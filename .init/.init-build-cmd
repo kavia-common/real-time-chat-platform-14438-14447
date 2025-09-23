@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/real-time-chat-platform-14438-14447/chat_backend"
+}
